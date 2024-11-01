@@ -7,7 +7,7 @@ A simple REST API for managing `Student` records, built with **Flask**. Supports
 
 1. **Clone**:
    ```bash
-   git clone <repository-url> && cd <repository-directory>
+   git clone https://github.com/meinai-otoko/Midterm
    ```
 
 2. **Create a Virtual Environment**:
