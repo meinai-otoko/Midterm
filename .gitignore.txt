@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Flask instance folder
+instance/
+
+# Log files
+*.log
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Miscellaneous files
+*.DS_Store
+*.egg-info/
+*.sqlite3
+*.db
